@@ -1,0 +1,14 @@
+.app-container {
+  font-family: 'Arial', sans-serif;
+}
+
+.home-content {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+}
+
+.welcome-message {
+  font-size: 1.2em;
+  color: #007bff;
+}
